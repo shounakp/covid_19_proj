@@ -1,0 +1,9 @@
+{
+	"name": "CovidReprtingAdfGauri",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d4f80cf8-eeaa-4d06-89b1-b384eed445e6",
+		"tenantId": "95285ed2-ee69-40a6-9baf-9fe9072cd4d3"
+	}
+}
