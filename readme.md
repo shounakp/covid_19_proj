@@ -47,5 +47,6 @@ Automated and scalable pipeline for COVID-19 data ingestion and processing.
 Reliable and efficient data handling using Delta Lake.
 
 Actionable insights generated to support reporting and decision-making processes.
-
+# Data architecture digram
+# ![image](https://github.com/user-attachments/assets/58f121ab-af84-4654-b9c0-9087b8be01c6)
 
